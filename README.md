@@ -1,5 +1,7 @@
 📫 How to reach me > michal.dzierzbicki@vp.pl
 
+(I have finally to make my own CV page...) 
+
 # My current stack
 - Web Pages
 - Symfony (PHP)
@@ -12,6 +14,7 @@
 - Rust
 - PHP fastcgi
 - AI (to be fair because I have too, not really stocked about it... freaking trends...)
+- How to be a billionaire
 
 # Tools
 - PHPStorm (waiting for Pulsar <3 huge fun of Atom :( )
@@ -26,7 +29,7 @@
 - C++
 - to be fair any other language - all of them are pretty similar. I would need a day or two to check out syntax though.
 
-# For recruters!
+# For recruiters!
 To ease your job here is a tier list of my repositories. I have about 25 repos but only 1/3 is public, so if you want to see my newest project go here: https://boardmeister.com 
 (it's also private, so you can only check it from normal user point of view).
 
@@ -44,7 +47,5 @@ Also, it seems that commits to private repos won't show on `Contribution activit
 3. [Tab_JF](https://github.com/Mortimer333/Tab_JF)
 4. [Validate](https://github.com/Mortimer333/Validate) - cool feature of dynamic rules change for validation
 
-## Tier 3 - Would delete but it's good to have old repos to show growth :/
+## Tier 3 - Would delete, but it's good to have old repos to show growth :/
 Anything else you find there.
-
-
