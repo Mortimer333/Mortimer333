@@ -30,6 +30,8 @@
 To ease your job here is a tier list of my repositories. I have about 25 repos but only 1/3 is public, so if you want to see my newest project go here: https://boardmeister.com 
 (it's also private, so you can only check it from normal user point of view).
 
+Also, it seems that commits to private repos won't show on `Contribution activity` and it looks like I'm not doing anything :/. But I assure you there is at least one/two commits per day.
+
 ## Tier 1 - My proudest work
 1. [Dito](https://github.com/Mortimer333/Dito)
 2. [tetraquark](https://github.com/Mortimer333/tetraquark)
