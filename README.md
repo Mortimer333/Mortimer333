@@ -17,7 +17,7 @@
 - How to be a billionaire
 
 # Tools
-- PHPStorm (waiting for Pulsar <3 huge fun of Atom :( )
+- PHPStorm (waiting for Pulsar <3 huge fan of Atom :( )
 - Postman
 - Ubuntu 20
 - Firefox Developer
@@ -37,8 +37,9 @@ Also, it seems that commits to private repos won't show on `Contribution activit
 
 ## Tier 1 - My proudest work
 1. [Dito](https://github.com/Mortimer333/Dito)
-2. [tetraquark](https://github.com/Mortimer333/tetraquark)
-3. [Content](https://github.com/Mortimer333/Content)
+2. [IdemDito](https://github.com/Mortimer333/IdemDito) - App skeleton made with Dito
+3. [tetraquark](https://github.com/Mortimer333/tetraquark)
+4. [Content](https://github.com/Mortimer333/Content)
 
 ## Tier 2 - Cool but nothing amazing
 
