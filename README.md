@@ -1,6 +1,6 @@
 📫 How to reach me > michal.dzierzbicki@vp.pl
 
-(I have finally to make my own CV page...) 
+(I have to finally to make my own CV page...) 
 
 # My current stack
 - Web Pages
