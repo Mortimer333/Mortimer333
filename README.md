@@ -14,7 +14,6 @@
 - Rust
 - PHP fastcgi
 - AI (to be fair because I have too, not really stocked about it... freaking trends...)
-- How to be a billionaire
 
 # Tools
 - PHPStorm (waiting for Pulsar <3 huge fan of Atom :( )
