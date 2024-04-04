@@ -37,8 +37,8 @@ Also, it seems that commits to private repos won't show on `Contribution activit
 ## Tier 1 - My proudest work
 1. [Dito](https://github.com/Mortimer333/Dito)
 2. [IdemDito](https://github.com/Mortimer333/IdemDito) - App skeleton made with Dito
-3. [Dullahan]([https://github.com/Mortimer333/tetraquark](https://github.com/Mortimer333/Dullahan))
-4. [Dullahan Project]([https://github.com/Mortimer333/Content](https://github.com/Mortimer333/dullahan-project))
+3. [Dullahan](https://github.com/Mortimer333/Dullahan)
+4. [Dullahan Project](https://github.com/Mortimer333/dullahan-project)
 
 ## Tier 2 - Cool but nothing amazing
 
