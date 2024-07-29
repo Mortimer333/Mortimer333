@@ -6,7 +6,7 @@
 - Web Pages
 - Symfony (PHP)
 - Tailwind (CSS)
-- Angular/Vue/Dito (JS)
+- Angular/React (TS)
 - NGINX
 - Debian 10 Burst
 
